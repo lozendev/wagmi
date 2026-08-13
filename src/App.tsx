@@ -24,7 +24,7 @@ export default function App() {
     <div className="wrap">
       <header>
         <div className="brand">
-          <img src="/logo512.png" alt="WAGMI logo" />
+          <img src="./logo512.png" alt="WAGMI logo" />
           WAGMI
         </div>
         <nav className="flex items-center gap-3">
@@ -39,7 +39,7 @@ export default function App() {
 
       <section className="hero" style={{ borderTop: 'none' }}>
         <div className="pfp-stack">
-          <img className="pfp" src="/wagmih.png" alt="WAGMI Hero" />
+          <img className="pfp" src="./wagmih.png" alt="WAGMI Hero" />
         </div>
         <h1 className="display" style={{ fontSize: 'clamp(92px, 16vw, 152px)', lineHeight: '1', margin: '0 0 10px 0' }}>
           <span className="serious">WAGMI</span>
