@@ -12,7 +12,7 @@
 * { margin: 0; padding: 0; box-sizing: border-box; }
 html { scroll-behavior: smooth; }
 body {
-  background: rgba(204, 255, 0, 0.04);
+  background-color: #f7ffdb;
   color: var(--ink);
   font-family: "Comic Neue", "Comic Sans MS", "Chalkboard SE", cursive;
   line-height: 1.6;
